@@ -1,2 +1,2 @@
 # UVa
-UVa Online Judge entries
+<a href="https://uva.onlinejudge.org/">UVa Online Judge></a> entries
